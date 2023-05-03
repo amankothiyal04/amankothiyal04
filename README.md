@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @amankothiyal04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-amankothiyal04/amankothiyal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Aman Kothiyal
+- 👀 I’m interested in Devops and tech in general
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on Cloud Native env
+- 📫 You can reach me on https://www.linkedin.com/in/aman-kothiyal-01978014a/
