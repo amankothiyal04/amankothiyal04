@@ -2,4 +2,3 @@
 - 👀 I’m interested in Devops and tech in general
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Cloud Native env
-- 📫 You can reach me on https://www.linkedin.com/in/aman-kothiyal-01978014a/
