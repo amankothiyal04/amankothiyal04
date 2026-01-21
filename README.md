@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Aman Kothiyal</h1>
-<h3 align="center">🚀 AI/ML & MLOps Enthusiast | 💻 DevOps Engineer | ☁️ AWS & Harness Practitioner</h3>
+<h3 align="center">🚀 Devops Engineer & a AI/ML & MLOps Enthusiast | ☁️ AWS & Harness Practitioner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
